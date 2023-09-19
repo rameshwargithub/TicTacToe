@@ -45,7 +45,7 @@ Before you start, ensure you have the following prerequisites:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-java.git
+   git clone https://github.com/rameshwargithub/TicTacToe.git
    ```
 
 2. Compile the Java code:
